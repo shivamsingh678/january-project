@@ -2,7 +2,7 @@
 
 This repository contains 10 beginner-friendly Python mini projects that I created for learning and practicing Python programming concepts.
 
-## 📂 Projects List
+##  Projects List
 1. Calculator  
 2. Todo Application  
 3. Guess Number Game  
@@ -14,18 +14,18 @@ This repository contains 10 beginner-friendly Python mini projects that I create
 9. Bank Mini System  
 10. Quiz Game  
 
-## 🛠 Technology Used
+##  Technology Used
 Python 3
 
-## 📘 Concepts Covered
-✔ Input & Output  
-✔ Variables and Data Types  
-✔ If-Else Conditions  
-✔ Loops  
-✔ Functions  
-✔ Error Handling (try–except)  
-✔ File Handling  
+##  Concepts Covered
+ Input & Output  
+ Variables and Data Types  
+ If-Else Conditions  
+ Loops  
+ Functions  
+ Error Handling (try–except)  
+ File Handling  
 
-## 🎯 Purpose
+##  Purpose
 These projects helped me understand the basics of Python and improve my logic-building skills.
 
